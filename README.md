@@ -4,8 +4,7 @@
 
 [![NPM](https://nodei.co/npm/mpl-require-extension.png)](https://www.npmjs.com/package/mpl-require-extension)
 
-A require.extensions loader for MPL which stands for **Mapping Template**
-It is a NodeJS require.extension for custom file type *.mpl. 
+It is a require.extensions loader for MPL which stands for **Mapping Template** and a NodeJS require.extension for handling custom file type *.mpl.
 The purpose of *.mpl represent a mapping relationship from source data structure to destination data structure.
 
 ## Installation
